@@ -3,7 +3,10 @@
 MovieHive is a **React movie browsing web app** that allows users to explore movies, view details, search movies, and save their favourite movies. The project uses the OMDb API to fetch movie data and displays it in a clean, modern card layout.
 
 ---
+## Live Link
+https://moviehive0.netlify.app/
 
+---
 ## 🚀 Features
 
 * 🔎 **Search Movies** by name
